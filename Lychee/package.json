@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "half-chain": "file:.."
+  }
+}
